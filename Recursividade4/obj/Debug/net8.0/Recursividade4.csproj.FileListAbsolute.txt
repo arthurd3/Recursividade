@@ -1,0 +1,14 @@
+C:\C#\Recursividade4\bin\Debug\net8.0\Recursividade4.exe
+C:\C#\Recursividade4\bin\Debug\net8.0\Recursividade4.deps.json
+C:\C#\Recursividade4\bin\Debug\net8.0\Recursividade4.runtimeconfig.json
+C:\C#\Recursividade4\bin\Debug\net8.0\Recursividade4.dll
+C:\C#\Recursividade4\bin\Debug\net8.0\Recursividade4.pdb
+C:\C#\Recursividade4\obj\Debug\net8.0\Recursividade4.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Recursividade4\obj\Debug\net8.0\Recursividade4.AssemblyInfoInputs.cache
+C:\C#\Recursividade4\obj\Debug\net8.0\Recursividade4.AssemblyInfo.cs
+C:\C#\Recursividade4\obj\Debug\net8.0\Recursividade4.csproj.CoreCompileInputs.cache
+C:\C#\Recursividade4\obj\Debug\net8.0\Recursividade4.dll
+C:\C#\Recursividade4\obj\Debug\net8.0\refint\Recursividade4.dll
+C:\C#\Recursividade4\obj\Debug\net8.0\Recursividade4.pdb
+C:\C#\Recursividade4\obj\Debug\net8.0\Recursividade4.genruntimeconfig.cache
+C:\C#\Recursividade4\obj\Debug\net8.0\ref\Recursividade4.dll
